@@ -1,6 +1,6 @@
 # mdef
 
-`mdef` is a simple cli dictionary lookup tool for macOS à la `dict`.  It uses the system dictionaries.
+`mdef` is a simple command-line dictionary lookup tool for macOS à la `dict`.  It uses the system dictionaries.
 
 ## usage
 
